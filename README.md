@@ -1,14 +1,17 @@
 <h3 align="left">Hi 👋! My name is Luiz F. Miranda and I am a student of Computer Engineering. I love solving problems that I created myself.</h3>
 
-###
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <!-- Stats na esquerda -->
+  <div style="flex: 1; max-width: 50%; text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lFelipeMi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph" />
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lFelipeMi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=lFelipeMi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lFelipeMi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- Streak e Languages empilhados à direita -->
+  <div style="flex: 1; max-width: 50%; text-align: right; display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://streak-stats.demolab.com?user=lFelipeMi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="100" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lFelipeMi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph" />
+  </div>
 </div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
