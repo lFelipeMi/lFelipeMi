@@ -39,12 +39,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lFelipeMi/lFelipeMi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="" src="https://media1.tenor.com/m/SaNARgBciQ4AAAAd/listening-to-music-spongebob.gif"  />
 
 ###
