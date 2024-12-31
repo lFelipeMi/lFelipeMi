@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="" src="https://media1.tenor.com/m/SaNARgBciQ4AAAAd/listening-to-music-spongebob.gif"  />
+<img align="right" height="300" width="300" padding-top="62px" style="border-radius: 50%;" src="https://media1.tenor.com/m/SaNARgBciQ4AAAAd/listening-to-music-spongebob.gif" />
 
 ###
 
